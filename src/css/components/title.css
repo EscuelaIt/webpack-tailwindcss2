@@ -1,0 +1,5 @@
+@layer components {
+  .title-section {
+    @apply p-4 mb-2 text-3xl font-bold bg-green-300 text-green-800 border-b-4 border-teal-700;
+  }
+}

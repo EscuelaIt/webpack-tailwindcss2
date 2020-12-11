@@ -1,0 +1,5 @@
+@import './tailwind.css';
+
+@import './base/p.css';
+@import './components/button.css';
+@import './components/title.css';
